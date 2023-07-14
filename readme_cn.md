@@ -20,7 +20,6 @@
 | - | - | - |
 | [daycount](https://github.com/TISUnion/daycount) | [Fallen_Breath](https://github.com/Fallen-Breath) | `!!day` 获得开服至今的天数 |
 | [Seen](https://github.com/TISUnion/Seen/tree/MCDR) | [Pandaria98](https://github.com/Pandaria98) | 摸鱼时长排名 |
-| [SeenR](https://github.com/ra1ny-yuki/mcdr-seen-refreshed) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 可识别地毯假人的摸鱼时长排名(**仅适用于MCDR 1.x**) |
 | [TPS](https://github.com/Da-Dog/MCDR-TPS) | [Da_Dog](https://github.com/Da-Dog) | 查看服务器TPS |
 | [Daytime](https://github.com/BelowZeroKelvin/MCDR-Daytime) | [BelowZeroKelvin](https://github.com/BelowZeroKelvin) | 查看mc的时间 |
 | [SystemInfo](https://github.com/eagle3236/SystemInfo) | [Alex3236](https://github.com/eagle3236) | 查看系统信息 |
@@ -82,7 +81,6 @@
 | [AdvancedCalculator](https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/advanced_calculator) | [AnzhiZhang](https://github.com/AnzhiZhang) | 提供游戏内多种便捷计算 |
 | [PearlCannonHelper](https://github.com/SCT-Technology/PearlCannonHelper) | [hai_dan](https://github.com/haidanQAQ) | 计算珍珠在珍珠炮环境的tnt作用下每一t的位置 |
 | [TpDimension](https://github.com/MIZUkiYuu/MCDR-Plugins/tree/main/TpDimension) | [MIZUkiYuu](https://github.com/MIZUkiYuu) | 更方便地传送到另一个维度，例如使用 `!!overworld <x> <y> <z>` 来指定传送坐标 |
-| [LazyTP](https://github.com/ra1ny-yuki/lazytp) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki/) | 快速传送小帮手，提供维度间传送及定点快速传送等功能 |
 | [DimensionConvert](https://github.com/ActiniumCraft/dimension-convert) | [Eleven](https://github.com/voidswordQQJ) | 转换地狱和主世界的对应坐标 |
 | [Renewability](https://github.com/Fidelxyz/MCDR-Renewability/) | [XuanYun_Fidel](https://github.com/Fidelxyz) | 允许玩家复制不可再生物品 |
 
@@ -168,9 +166,7 @@
 | [MirrorSync](https://github.com/wyf0762/MCDReforged-Plugins/tree/master/MirrorSync) | [wyf0762](https://github.com/wyf0762) | 在镜像服内同步生存服存档至镜像服 |
 | [Size](https://github.com/AngelicaRoot/MCDR-Size-Plugin) | [White_Paper_](https://github.com/AngelicaRoot) | 用指令来获取服务器存档的大小 |
 | [MapcrafterRender](https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/MapcrafterRender) | [AnzhiZhang](https://github.com/AnzhiZhang) | 自动渲染 `Mapcrafter` 地图 |
-| [WESchem](https://github.com/ra1ny-yuki/weschem) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki/) | 在同机器上不同子服务器间复制WE原理图 |
 | [LiteFileManager](https://github.com/MCDReforged/LiteFileManager) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个轻量级的游戏内文件管理器 |
-| [Server-Updater](https://github.com/Lazy-Bing-Server/Server-Updater) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki/) | 轻松地更新原版服务端 |
 | [AutoZipBackup](https://github.com/DGBCraft/AutoZipBackup) | [Sanluli36li](https://github.com/Sanluli36li) | 基于PermanentBackup的每日自动备份与新玩家登录备份 |
 | [GitBackUp](https://github.com/zyxgad/gitbackup_mcdr) | [zyxgad](https://github.com/zyxgad) | 一个使用git来管理世界备份的插件 |
 
